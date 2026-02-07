@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hello👋👋
+
+- 🔭 I’m Mikko Puolakka
+- 🌱 I’m ICT Engineering student at OAMK (3rd year), Option of Software Development.
+- 📫 Reach me on [LinkedIn](www.linkedin.com/in/mikko-puolakka-3a2b7735a)
+
+## Here are a couple of projects I have been participated in
+[PlantLifeApp](https://github.com/PlantLifeApp/PlantLifeApp)
+[WebProjectMovie](https://github.com/Web-project-moviedb/WebProjectMovie)
 
 <!--
 **mipu1/mipu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
